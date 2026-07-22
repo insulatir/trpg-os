@@ -1,0 +1,4 @@
+Fact_ID,Category,Title,Content,Keywords,Trigger,Importance,Last_Updated
+F001,Faction,The Shadow Cult,어둠을 숭배하는 비밀 조직. 고대 유물을 모으고 있다,cult shadow relic,cult OR shadow OR relic,High,Session 0
+F002,Location,Oakwood Village,작은 평화로운 마을. 최근 이상한 사건이 발생하고 있다,oakwood village,village OR oakwood,Medium,Session 0
+F003,Lore,The Ancient Relic,강력한 마력이 깃든 유물. 어둠의 세력이 노리고 있다,relic ancient,relic,High,Session 0
