@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Campaign data (personal campaigns stay local by default)
+campaigns/*/logs/
+campaigns/*/TRPG_Campaign_State.xlsx
+*.xlsx~
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
